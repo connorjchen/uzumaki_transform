@@ -2,6 +2,13 @@
 
 A python program that uses computer vision techniques to change an image into a swirling gif that resembles the Uzumaki manga by Junji Ito
 
+### Screenshots
+
+<p align="center">
+  <img src="https://github.com/connorjchen/uzumaki_transform/blob/master/background_removal/data/connorScared.jpg" width="500" />
+  <img src="https://github.com/connorjchen/uzumaki_transform/blob/master/background_removal/data/connorScared_out_swirl.gif" width="500" />
+</p>
+
 ## Note
 
 Program and README was created for MacBook Pro M1
