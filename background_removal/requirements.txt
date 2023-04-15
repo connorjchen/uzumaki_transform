@@ -1,0 +1,11 @@
+opencv-python
+mediapipe-silicon
+stow
+numpy
+tqdm
+onnxruntime
+tf2onnx
+scikit-image
+# tensorflow==2.*
+
+# using 3.11.0
