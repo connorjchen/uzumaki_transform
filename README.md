@@ -1,5 +1,7 @@
 # Uzumaki Transform
 
+A python program that uses computer vision techniques to change an image into a swirling gif that resembles the Uzumaki manga by Junji Ito
+
 ## Note
 
 Program and README was created for MacBook Pro M1
