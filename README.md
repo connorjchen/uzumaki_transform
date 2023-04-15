@@ -30,6 +30,3 @@ Program and README was created for MacBook Pro M1
 ## How to Run
 
 1. sh run_main.sh
-   export PYENV_ROOT="$HOME/.pyenv"
-command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
-eval "$(pyenv init -)"
