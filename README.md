@@ -13,11 +13,6 @@ A python program that uses computer vision techniques to change an image into a 
 
 Program and README was created for MacBook Pro M1 Ventura 13.1
 
-## Code Reference
-
-- https://github.com/pythonlessons/background_removal
-- https://stackoverflow.com/questions/74977491/how-can-i-apply-effects-like-a-swirl-to-a-webcam-stream-using-python-and-opencv
-
 ## How to Get Setup
 
 1. Install pyenv
@@ -39,3 +34,8 @@ Program and README was created for MacBook Pro M1 Ventura 13.1
 ## How to Run
 
 1. sh run_main.sh
+
+## Code Reference
+
+- https://github.com/pythonlessons/background_removal
+- https://stackoverflow.com/questions/74977491/how-can-i-apply-effects-like-a-swirl-to-a-webcam-stream-using-python-and-opencv
