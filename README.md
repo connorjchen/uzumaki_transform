@@ -11,7 +11,7 @@ A python program that uses computer vision techniques to change an image into a 
 
 ## Note
 
-Program and README was created for MacBook Pro M1
+Program and README was created for MacBook Pro M1 Ventura 13.1
 
 ## Code Reference
 
