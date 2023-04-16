@@ -5,8 +5,9 @@ A python program that uses computer vision techniques to change an image into a 
 ### Screenshots
 
 <p align="center">
-  <img src="https://github.com/connorjchen/uzumaki_transform/blob/master/background_removal/data/connorScared.jpg" width="500" />
-  <img src="https://github.com/connorjchen/uzumaki_transform/blob/master/background_removal/data/connorScared_out_swirl.gif" width="500" />
+  <img src="https://github.com/connorjchen/uzumaki_transform/blob/master/background_removal/data/connor.jpg" width="500" />
+  <img src="https://github.com/connorjchen/uzumaki_transform/blob/master/background_removal/data/connor_out.jpg" width="500" />
+  <img src="https://github.com/connorjchen/uzumaki_transform/blob/master/background_removal/data/connor_out_swirl.gif" width="500" />
 </p>
 
 ## Note
